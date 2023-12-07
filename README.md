@@ -5,7 +5,9 @@ Sou uma paulistana apaixonada por tecnologia e organização pessoal.
 
 Me formei em Sistemas de informação e essa experiência me proporcionou uma compreensão profunda das nuances do setor de tecnologia, desde o desenvolvimento de software até a implementação de soluções inovadoras. 
 
-Agora, estou pronta para utilizar essa experiência de forma única, conectando talentos excepcionais com oportunidades empolgantes no mundo tech.
+Atualmente, trabalho como analista de planejamento com foco em dados e aqui irei compartilhar os scripts python que eu desenvolvo. 
+
+Para saber mais, entre em contato comigo.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=taidsantos)
 
