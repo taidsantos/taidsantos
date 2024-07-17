@@ -9,7 +9,7 @@ Atualmente, trabalho como analista de planejamento com foco em dados e aqui comp
 
 Para saber mais, acesse meu site: https://www.taisantos.com
 
-[![Taidsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=taidsantos&random=random)](https://github.com/taidsantos/github-readme-stats)
+![taidsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=taidsantos&show_icons=true&theme=cobalt)
 
 ### Minhas Redes Sociais:
 
