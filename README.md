@@ -8,9 +8,9 @@ Me formei em Sistemas de informação e essa experiência me proporcionou uma co
 Atualmente, trabalho como analista de planejamento com foco em dados e aqui compartilho os scripts python que eu desenvolvo. 
 
 Para saber mais, acesse meu site: https://www.taisantos.com
-
+<picture>
 ![taidsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=taidsantos&show_icons=true&theme=transparent)
-
+</picture>
 
 ### Minhas Redes Sociais:
 
