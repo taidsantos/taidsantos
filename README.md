@@ -9,7 +9,11 @@ Atualmente, trabalho como analista de planejamento com foco em dados e aqui comp
 
 Para saber mais, acesse meu site: https://www.taisantos.com
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=taidsantos)
+<div>
+<a href="https://github.com/taidsantos">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?taidsantos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?taidsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Minhas Redes Sociais:
 
